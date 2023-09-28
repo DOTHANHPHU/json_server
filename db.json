@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Hướng dẫn chi tiết cách sử dụng Dev Mode trong khóa Pro",
+      "description": "Chào bạn! Nếu bạn đã là học viên khóa Pro của F8, chắc hẳn bạn đã biết tới 'Dev Mode' - giúp thực hành code song song khi xem..."
+    },
+    {
+      "name": "Thêm/sửa/xóa khóa học với Fetch và REST API",
+      "description": "Các bạn subscribe kênh Youtube F8 Official để nhận thông báo khi có các bài học mới nhé ❤️",
+      "id": 2
+    },
+    {
+      "name": "abc",
+      "description": "abc",
+      "id": 3
+    }
+  ]
+}
